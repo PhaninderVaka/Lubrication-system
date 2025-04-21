@@ -5,4 +5,4 @@ Contains code for arduino and details for connection and working of the lubricat
 <br>
 
 # Schematic
-<img src="https://github.com/user-attachments/assets/6721b8e3-0c83-4a43-94a5-fd1ed7b9be24" width="300" height="100"/>
+<img src="https://github.com/user-attachments/assets/6721b8e3-0c83-4a43-94a5-fd1ed7b9be24" width="600" height="200"/>
